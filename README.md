@@ -4,12 +4,13 @@
 
 ## 固件源码
 
-<https://github.com/coolsnowwolf/lede>
+<https://github.com/openwrt/openwrt>
 
-## OpenWrt 配置
+## OpenWrt 插件
 
-精简了很多我不用的东西，只用ddns了，其他没用我都去掉了，编译后 9M 左右
+<https://github.com/maiqingqiang/openwrt-package>
 
 ## 暂时没接CI（后续有空先）
 
-2023-03-13 目录是我最近编译好的固件
+2023-03-14: 用lede编译的
+2023-03-16：用openwrt编译的
